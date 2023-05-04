@@ -7,3 +7,5 @@ A principal característica deste projeto é seu design, que apresenta uma esté
 O código fonte está disponível neste repositório do GitHub e pode ser clonado para o seu computador. Sinta-se à vontade para examinar o código e fazer suas próprias alterações e melhorias.
 
 Espero que goste do projeto e agradeço por verificar meu trabalho!🖖
+
+![pagina](url_da_imagem)
