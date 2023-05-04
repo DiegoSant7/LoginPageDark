@@ -8,4 +8,4 @@ O código fonte está disponível neste repositório do GitHub e pode ser clonad
 
 Espero que goste do projeto e agradeço por verificar meu trabalho!🖖
 
-![pagina](file:///home/diegosant7/Imagens/ladingPageDarkpng)
+![pagina](//home/diegosant7/Imagens/ladingPageDarkpng)
